@@ -12,3 +12,5 @@ Trabalho Realizado na matéria de Desenvolvimento Web II
 6. 👽 alterar as configurações do .env
 7. 👽 php artisan key:generate
 8. 👽 php artisan migrate:fresh
+9. 👽 npm run dev
+10. 👽 php artisan serv
